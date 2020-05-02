@@ -1,0 +1,19 @@
+{
+  "name": "node-mem-experiments",
+  "version": "1.0.0",
+  "description": "Some little scripts meant to give some inside on how Node.js manages memory...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimLynchCodes/Node-Mem-Experiments.git"
+  },
+  "author": "Jim",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JimLynchCodes/Node-Mem-Experiments/issues"
+  },
+  "homepage": "https://github.com/JimLynchCodes/Node-Mem-Experiments#readme"
+}
